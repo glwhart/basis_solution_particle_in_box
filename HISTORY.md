@@ -1,4 +1,4 @@
-# Revision History
+[# Revision History
 
 ## Revision 0.0.1
 
@@ -63,3 +63,7 @@ Commit adding files from Rev. 0.0.1
 ## Revision 0.0.4
 
 - Added the setup.cfg file for the CI and coverage checking
+? The CI still isn't working. Missing some configuration thing:
+
+
+## 
