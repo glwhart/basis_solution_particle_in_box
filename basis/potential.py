@@ -146,3 +146,5 @@ class Potential(object):
         self._parse_regions()
         
 
+def live_editing(arg):
+    print(arg)
