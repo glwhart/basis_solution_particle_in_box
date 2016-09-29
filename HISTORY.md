@@ -59,3 +59,7 @@ Commit adding files from Rev. 0.0.1
 
 - Added comments/answers to history file from Conrad and Wiley
 - Fixed python 3 bug in one of the unit tests
+
+## Revision 0.0.4
+
+- Added the setup.cfg file for the CI and coverage checking
